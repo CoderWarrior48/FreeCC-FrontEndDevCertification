@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/FreeCC-FrontEndDevCertification/static/css/main.d17b1185.css",
+    "main.js": "/FreeCC-FrontEndDevCertification/static/js/main.5b94dd75.js",
+    "index.html": "/FreeCC-FrontEndDevCertification/index.html",
+    "main.d17b1185.css.map": "/FreeCC-FrontEndDevCertification/static/css/main.d17b1185.css.map",
+    "main.5b94dd75.js.map": "/FreeCC-FrontEndDevCertification/static/js/main.5b94dd75.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d17b1185.css",
+    "static/js/main.5b94dd75.js"
+  ]
+}
