@@ -1,0 +1,19 @@
+@import "../node_modules/bootstrap/scss/bootstrap";
+
+.keys {
+    display:grid;
+    grid-template-columns: repeat(4, 1fr);
+    grid-gap: 5px;
+    padding: 20px;
+
+    .key {
+        height: 60px;
+        font-size: 2rem!important;
+        justify-self: stretch;
+    }
+
+   #equals {
+        height: 98%;
+        grid-area: 2 / 4 / 6 / 5;
+   }
+}
